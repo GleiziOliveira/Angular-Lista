@@ -1,0 +1,16 @@
+<mat-toolbar class="footer">
+
+<ul>
+  <li *myFor="let n em [1, 2, 3]">
+<!-- Diretiva estrutura tem o * fazer o let um arry de numeros usando a diretiva -->
+  </li>
+</ul>
+  <span> <!-- o appRed é uma diretiva de atributo capaz de mexer no comportamento quanto
+  ele é capas de mexer no estilo do elemento,nesse i foi atribuido a diretiva e no segundo I não 
+foi atribuido, para podermos enxergar a diferença. -->
+    Desenvolvido com <i class="material-icons v-middle" appRed>
+      favorite
+    </i>
+    por <strong>Cod<span class="red">3</span>r</strong>
+  </span>
+</mat-toolbar>
