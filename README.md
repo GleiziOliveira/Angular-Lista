@@ -4,6 +4,10 @@
   <img src="https://i.ibb.co/X2mxQZJ/1695394044331825.jpg" alt="Telas do Projeto" width="50%" />
 </p>
 
+<p align="center">
+  <img src="./video/Gravando 2023-09-22 121221.gif" alt="Telas do Projeto" width="50%" />
+</p>
+
 ## 🚀 Framework Angular
 Mantido pela gigante da tecnologia Google, o Angular 9 é um dos principais frameworks frontend do mercado!
 
