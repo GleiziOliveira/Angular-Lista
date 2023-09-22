@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "caneta Vermelha",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "caneta Azul",
+      "price": 5.89
+    },
+    {
+      "name": "papel ",
+      "price": "1,00",
+      "id": 4
+    },
+    {
+      "name": "lapis coloriso",
+      "price": "12,50",
+      "id": 5
+    }
+  ]
+}

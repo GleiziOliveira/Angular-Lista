@@ -2,5 +2,5 @@ export interface Product { //esse interface é um tipo de recurso que só está 
   // Nessa parte é definida os atributos da interface da aplicação
   id?: number
   name: string
-  price: number
+  price: number | null; // Permitindo valor nulo
 }

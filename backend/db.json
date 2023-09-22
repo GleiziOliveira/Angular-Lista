@@ -1,19 +1,29 @@
 {
-  "products":[
+  "products": [
     {
-      "id":1,
-      "name":"caneta Preta",
-      "price":5.89
-    }, 
+      "id": 2,
+      "name": "caneta Vermelha",
+      "price": 5.89
+    },
     {
-      "id":2,
-      "name":"caneta Vermelha",
-      "price":5.89
-    }, 
+      "id": 3,
+      "name": "caneta Azul",
+      "price": 5.89
+    },
     {
-      "id":3,
-      "name":"caneta Azul",
-      "price":5.89
+      "name": "Celular",
+      "price": "1200.00",
+      "id": 4
+    },
+    {
+      "name": "Carregador Universal ",
+      "price": "100.00",
+      "id": 5
+    },
+    {
+      "name": "caneta Preta",
+      "price": "2.89",
+      "id": 6
     }
   ]
 }

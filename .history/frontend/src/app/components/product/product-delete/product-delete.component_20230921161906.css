@@ -1,0 +1,17 @@
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    padding: 10px;
+    
+   
+}
+
+button {
+    margin: 20px 15px 0px 0px;padding: 10px;
+}
+
+mat-card-title{
+  padding: 10px;
+}
